@@ -246,12 +246,12 @@ ORDER BY total_viewship DESC;
 
 Indian Asian:
 
--->ICC Cricket World Cup is their #1 channel — cultural affinity with cricket confirmed! 🏏
+-->ICC Cricket World Cup is their #1 channel — cultural affinity with cricket confirmed! 
 Their overrepresentation in viewership now makes even more sense!
 
 Black viewers:
 
---> Channel O, Africa Magic and Trace — music and culture driven 🎵
+--> Channel O, Africa Magic and Trace — music and culture driven 
 --> Also present in sports — SuperSport Live Events at position 4
 
 Sports breakdown:
