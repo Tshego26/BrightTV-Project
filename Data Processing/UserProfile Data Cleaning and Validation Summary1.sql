@@ -143,7 +143,7 @@ FROM dbo.userprofile;
 SELECT DISTINCT race
 FROM dbo.userprofile;
 
---========================Now we standarise===========================
+--========================Now we Standardise===========================
 
 --Gender
 UPDATE dbo.userprofile
