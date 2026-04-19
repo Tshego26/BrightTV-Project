@@ -1,4 +1,4 @@
-# 📺 BrightTV Viewership Analytics Dashboard — Q1 2016
+# 📺 BrightTV Viewership Analytics — Q1 2016
 
 ## Project Overview
 
